@@ -9,6 +9,6 @@
   "issue_tracker": "https://github.com/aInfinitte/ha-pvpc-custom/issues",
   "loggers": ["aiopvpc"],
   "quality_scale": "platinum",
-  "requirements": ["aiopvpc>=4.3.2"],
-  "version": "1.2.4"
+  "requirements": ["aiopvpc @ https://github.com/Infinitte/aiopvpc/archive/refs/heads/master.zip"],
+  "version": "1.2.5"
 }
